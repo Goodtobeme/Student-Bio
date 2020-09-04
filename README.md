@@ -1,6 +1,4 @@
 # Student-Bio
-<<<<<<< HEAD
-Letting people know me.
-=======
+< HEAD
+Letting people know 
 A personal bio
->>>>>>> 37895c0eea84548028fc0b96fbcf4edf603aa5ff
